@@ -1,6 +1,7 @@
 const siteMeta = {
-  title: "Living LIfe",
-  description: "Follow my daily hijinks here. A lot of science-related stuff, and some serious subjects like cancer. Fuck cancer.
+  title: "Living Life",
+  description: "Follow my daily hijinks here. A lot of science-related stuff, and some serious subjects like cancer. Fuck cancer.",
+  lang: "en-US",
   ogLocale: "en_US",
   githubUrl: "https://cactus-wip.paulapplegate.com",
   themeColorLight: "#fafafa",
